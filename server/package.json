@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@remotion/bundler": "^4.0.279",
-    "@remotion/cli": "^4.0.279",
-    "@remotion/tailwind": "^4.0.279",
+    "@remotion/bundler": "^4.0.280",
+    "@remotion/cli": "^4.0.280",
+    "@remotion/tailwind": "^4.0.280",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   }
